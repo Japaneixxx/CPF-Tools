@@ -13,7 +13,10 @@ Este projeto oferece um conjunto de ferramentas estáticas para lidar com a gera
 
 * Tratamento de Casos Inválidos: Rejeita CPFs com formato incorreto ou com todos os dígitos repetidos (ex: 111.111.111-11), que são inválidos.
 ## 🚀 Como Usar
-Como os métodos são estáticos, você não precisa instanciar nenhum objeto. Basta importar as classes e chamar os métodos diretamente.
+Como os métodos são estáticos, você não precisa instanciar nenhum objeto. 
+
+Basta importar as classes e chamar os métodos diretamente.
+
 Exemplos de Uso
 ```java
 import com.japaneixxx.utils.CPFGen;
