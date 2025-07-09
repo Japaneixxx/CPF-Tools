@@ -90,7 +90,7 @@ O 9º dígito do CPF indica a Região Fiscal onde o documento foi originalmente 
 
  * *Retorna*: Uma String com o CPF formatado.com.japaneixxx.utils.CPFVerify
 
- * `public static boolean verifyCPF(String cpf)`
+•`public static boolean verifyCPF(String cpf)`
 
  * Verifica se a string fornecida corresponde a um CPF válido.
 
