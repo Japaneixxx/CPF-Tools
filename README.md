@@ -24,9 +24,9 @@ import com.japaneixxx.utils.CPFVerify;
 
 public class Main {
 public static void main(String[] args) {
-// 1. Gerando um CPF aleatório
-String cpfAleatorio = CPFGen.generateCPF();
-System.out.println("CPF Aleatório Gerado: " + cpfAleatorio);
+        // 1. Gerando um CPF aleatório
+        String cpfAleatorio = CPFGen.generateCPF();
+        System.out.println("CPF Aleatório Gerado: " + cpfAleatorio);
 
         // 2. Gerando um CPF para uma região específica (ex: São Paulo - Região 8)
         String cpfSP = CPFGen.generateCPF(8);
