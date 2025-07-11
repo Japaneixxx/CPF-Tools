@@ -53,27 +53,16 @@ public static void main(String[] args) {
 O 9º dígito do CPF indica a Região Fiscal onde o documento foi originalmente emitido. Use o número da região ao chamar o método `CPFGen.generateCPF(int regiao)`.
 
 | Dígito (Região) | Estados                                                        | 
-
-| :-------------: | :------------------------------------------------------------- | 
-
+| :------------- | :------------------------------------------------------------- | 
 |        1        | DF, GO, MT, MS, TO                                             | 
-
 |        2        | AM, PA, RR, AP, AC, RO                                         | 
-
 |        3        | CE, MA, PI                                                     | 
-
 |        4        | PB, PE, AL, RN                                                 | 
-
 |        5        | BA, SE                                                         | 
-
 |        6        | MG                                                             | 
-
 |        7        | RJ, ES                                                         | 
-
 |        8        | SP                                                             | 
-
 |        9        | PR, SC                                                         | 
-
 |        0        | RS                                                             |
 
 ## 🛠️ API
