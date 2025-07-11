@@ -1,6 +1,6 @@
 package com.japaneixxx.utils;
 
-public class CPFVerify {
+public final class CPFVerify {
     public static boolean verifyCPF(String cpf) {
         // Deixa apenas numeros
         cpf = cpf.replaceAll("[^0-9]", "");
