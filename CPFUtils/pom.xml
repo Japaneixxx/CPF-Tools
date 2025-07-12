@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>CPFUtils</artifactId>
+    <artifactId>cpfutils</artifactId>
     <name>CPF Utils</name>
     <description>Utilitários básicos para CPF</description>
     <packaging>jar</packaging>

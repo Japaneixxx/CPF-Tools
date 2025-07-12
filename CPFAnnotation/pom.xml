@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>CPFAnnotation</artifactId>
+    <artifactId>cpfannotation</artifactId>
     <name>CPF Validation</name>
     <description>Integração de validação de CPF com Bean Validation</description>
     <packaging>jar</packaging>
@@ -23,7 +23,7 @@
     <dependencies>
         <dependency>
             <groupId>com.japaneixxx</groupId>
-            <artifactId>CPFUtils</artifactId>
+            <artifactId>cpfutils</artifactId>
             <version>${cpfutils.version}</version>
         </dependency>
 
