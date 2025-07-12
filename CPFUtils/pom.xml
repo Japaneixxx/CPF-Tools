@@ -16,16 +16,16 @@
     <version>${cpfutils.version}</version>
 
 
-    <distributionManagement>
-        <repository>
-            <!-- O ID deve ser único, usaremos 'github' -->
-            <id>github</id>
-            <!-- O nome é descritivo -->
-            <name>GitHub Packages</name>
-            <!-- A URL segue o formato: https://maven.pkg.github.com/SEU_USUARIO/NOME_DO_REPOSITORIO -->
-            <url>https://maven.pkg.github.com/Japaneixxx/cpf-tools</url>
-        </repository>
-    </distributionManagement>
+<!--    <distributionManagement>-->
+<!--        <repository>-->
+<!--            &lt;!&ndash; O ID deve ser único, usaremos 'github' &ndash;&gt;-->
+<!--            <id>github</id>-->
+<!--            &lt;!&ndash; O nome é descritivo &ndash;&gt;-->
+<!--            <name>GitHub Packages</name>-->
+<!--            &lt;!&ndash; A URL segue o formato: https://maven.pkg.github.com/SEU_USUARIO/NOME_DO_REPOSITORIO &ndash;&gt;-->
+<!--            <url>https://maven.pkg.github.com/Japaneixxx/cpf-tools</url>-->
+<!--        </repository>-->
+<!--    </distributionManagement>-->
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
