@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>CPFAnnotation</artifactId>
-    <name>Lib CPF Validation</name>
+    <name>CPF Validation</name>
     <description>Integração de validação de CPF com Bean Validation</description>
     <packaging>jar</packaging>
 
